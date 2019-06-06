@@ -1,7 +1,7 @@
 ﻿$(document).ready(function () {
 
-    var key = "AIzaSyDMeEiz-EL2Bg3Qb7-LkevvvCDkh60DGfk";
-    var playlistId = 'UUE_M8A5yxnLfW0KghEeajjw';
+    var key = "";
+    var playlistId = "";
     var URL = 'https://www.googleapis.com/youtube/v3/playlistItems';
     sum = 0;
 
